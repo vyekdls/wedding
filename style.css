@@ -54,6 +54,11 @@ h1 {
   font-size: 40px;
   margin-bottom: 28px;
 }
+#main > .title_text > h1:first-child {
+  margin-top: 30px;
+  font-size: 40px;
+  margin-bottom: -10px;
+}
 .address { 
   /* margin-bottom: 1em; */
   position: absolute;
